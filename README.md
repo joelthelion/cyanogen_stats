@@ -1,6 +1,6 @@
 #Scraper for http://stats.cyanogenmod.com/map/
 
-Install the supporting client socketIO library with ```pip install -r requirements.txt```.
+Install the supporting client socketIO library with ```sudo pip install -r requirements.txt``` (or use a virtualenv).
 
 Running main.py will output new installs in convenient CSV format.
 
