@@ -5,6 +5,8 @@ from socketIO_client import SocketIO, BaseNamespace
 
 class Namespace(BaseNamespace):
 
+    """ Websocket connection handler. Handles input from the stats site. """
+
     def on_connect(self):
         print('[Connected]', file=sys.stderr)
 
