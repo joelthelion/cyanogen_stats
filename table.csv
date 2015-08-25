@@ -1,0 +1,335 @@
+ Manufacturer, Model, codename, Device<br />type," data-sort-type=""number"" | Latest CM<br />release"," data-sort-type=""number"" | Current<br />nightly branch"," class=""unsortable"" | Notes"
+ Acer Inc.|Acer, Acer Iconia Tab|Iconia Tab A700, a700, tablet, {{sort|110013|11 XNG3C}},11, 
+ Advent Computers|Advent, Advent Vega|Vega, vega, tablet, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Amazon.com|Amazon, Kindle Fire (1st gen), otter, eReader, {{sort|110012|11 M12}},11, 
+ Amazon.com|Amazon, Kindle Fire X (1st gen), otterx, eReader, {{sort|110012|11 M12}},11, 
+ Amazon.com|Amazon, Kindle Fire (2nd gen), otter2, eReader, {{sort|110012|11 M12}},11, 
+ Amazon.com|Amazon, Kindle Fire HD|Kindle Fire HD 7, tate, eReader, {{sort|110012|11 M12}},12.1, 
+ Amazon.com|Amazon, Kindle Fire HD|Kindle Fire HD 8.9, jem, eReader, {{sort|110012|11 M12}},12.1, 
+ Asus, Asus Eee Pad Transformer|Eee Pad Transformer, tf101, tablet, {{sort|091000|9.1}},10, Last nightly was built on 29 September 2013 
+ Asus, Asus Eee Pad Transformer Prime|Eee Pad Transformer Prime, tf201, tablet, {{sort|091000|9.1}},10.1, Last nightly was built on 16 February 2014  
+ Asus, Asus Transformer Pad Infinity|Transformer Pad Infinity, tf700t, tablet, {{sort|110012|11 M12}},11, 
+ Asus, Asus Transformer Pad TF300T|Transformer Pad TF300T, tf300t, tablet, {{sort|110013|11 XNG3C}},12.1, 
+ Asus, Asus Transformer Pad TF701T|Transformer Pad TF701T, tf701t, tablet, {{sort|110013|11 XNG3C}},11, 
+ Barnes & Noble, Nook Color, encore, eReader, {{sort|110012|11 M12}},11, 
+ Barnes & Noble, Nook HD, hummingbird, eReader, {{sort|110012|11 M12}},11, 
+ Barnes & Noble, Nook HD+, ovation, eReader, {{sort|110012|11 M12}},11, 
+ Barnes & Noble, Nook Tablet, acclaim, eReader, {{sort|110013|11 XNG3C}},12.1, 
+ Commtiva, Z71, z71, phone, {{sort|071000|7.1}}, {{N/A}}, Sold under several additional names. Last nightly was built on 17 November 2011.
+ GeeksPhone, GeeksPhone One|One, one, phone, {{sort|071000|7.1}},7, Last nightly was built on 3 June 2012.
+ GeeksPhone, Zero, zero, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Google, Android One, sprout, phone, {{sort|110013|11 XNG3C}},12.1," Devices: [[Micromax Canvas A1]], Karbonn Sparkle V, Spice Dream UNO."
+ Google Nexus|Google, Nexus 4, mako, phone, {{sort|110012|11 M12}},12.1, Manufactured by [[LG]].
+ Google Nexus|Google, Nexus 5, hammerhead, phone, {{sort|110011|11 M11}},12.1, Manufactured by [[LG]].
+ Google Nexus|Google, Nexus 5 (CAF), hammerheadcaf, phone, {{sort|110011|11 M11}},12.1, Manufactured by [[LG]].
+ Google nexus|Google, Nexus 6 , shamu, phone, {{N/A}},12.1, Manufactured by [[Motorola]]
+ Google nexus|Google, Nexus 7 (2012 version) (GSM), tilapia, tablet, {{sort|120001|12 YNG4N}},12.1, Manufactured by [[Asus]].
+ Google Nexus|Google, Nexus 7 (2012 version) (Wi-Fi), grouper, tablet, {{sort|120001|12 YNG4N}},12.1, Manufactured by [[Asus]]. 
+ Google Nexus|Google, Nexus 7 (2013 version) (Wi-Fi), flo, tablet, {{sort|110012|11 M12}},12.1, Manufactured by [[Asus]].
+ Google Nexus|Google, Nexus 7 (2013 version) (4G), deb, tablet, {{sort|110012|11 M12}},12.1, Manufactured by [[Asus]]
+ Google Nexus|Google, Nexus 9 (Wi-Fi), flounder, tablet, {{N/A}},12.1, Manufactured by [[HTC]].
+ Google Nexus|Google, Nexus 10, manta, tablet, {{sort|110011|11 M11}},12.1, Manufactured by [[Samsung]].
+ Google Nexus|Google, Galaxy Nexus (GSM), maguro, phone, {{sort|110013|11 XNG3C}},11, Manufactured by [[Samsung]].
+ Google Nexus|Google, Galaxy Nexus (Sprint), toroplus, phone, {{sort|110008|11 M8}},11, Last nightly was built on 13 September 2014.
+ Google Nexus|Google, Galaxy Nexus (Verizon), toro, phone, {{sort|110009|11 M9}},11, Last nightly was built on 13 September 2014.
+ Google Nexus|Google, Nexus One, passion, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Google Nexus|Google, Nexus Player, fugu, set-top box, {{N/A}},12.1, Manufactured by [[Asus]].
+ Google Nexus|Google, Nexus S, crespo, phone, {{sort|110012|11 M12}},11, Manufactured by [[Samsung]].
+ Google Nexus|Google, Nexus S 4G, crespo4g, phone,{{sort|101030|10.1.3}},10.1, Last nightly was built on 16 February 2014.
+ Google Nexus|Google, Nexus Q, steelhead, set-top box, {{sort|102010|10.2.1}},10.2, Last nightly was built on 20 April 2014.
+ Hardkernel, Odroid|Odroid U2, odroidu2, dev board, {{sort|102001|10.2}},10.2, Last nightly was built on 30 March 2014.
+ Hewlett Packard, HP TouchPad|TouchPad, tenderloin, tablet, {{N/A}},9, Last nightly was built on 29 September 2013.
+ HTC, HTC Amaze 4G|Amaze 4G, ruby, phone, {{N/A}},10, Last nightly was built on 6 October 2013.
+ HTC, HTC Aria|Aria, liberty, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Butterfly|Butterfly, dlx, phone, {{sort|120001|12 YNG4N}},12.1, Also marketed as the HTC Droid DNA
+ HTC, HTC Desire|Desire (GSM), bravo, phone, {{sort|072001|7.2.0.1}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Desire|Desire (CDMA), bravoc, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Desire 816|Desire 816, a5, Phone, {{N/A}},12,
+ HTC, HTC Desire HD|Desire HD, ace, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013. Also marketed as [[HTC Inspire 4G|AT&T Inspire 4G]]
+ HTC, Desire S, saga, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Desire Z|Desire Z, vision, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013. Also marketed as the T-Mobile G2.
+ HTC, HTC Dream|Dream / HTC Magic|Magic, dream_sapphire, phone, {{sort|061000|6.1}}, {{N/A}}," Also marketed as T-Mobile myTouch 3G, Rogers HTC Magic, DoCoMo HT-03A."
+ HTC, HTC Hero#Droid Eris|Droid Eris, desirec, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, Droid Incredible, inc, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Incredible S|Droid Incredible 2, vivow, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, Droid Incredible 4G LTE, fireball, phone, {{sort|110013|11 XNG3C}},11, 
+ HTC, HTC Evo 3D|Evo 3D (GSM), shooteru, phone, {{N/A}},9, Last nightly was built on 29 September 2013.
+ HTC, HTC Evo 4G|Evo 4G, supersonic, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Evo 4G LTE|Evo 4G LTE, jewel, phone, {{sort|110012|11 M12}},12, 
+ HTC, HTC Evo Shift 4G|Evo Shift 4G, speedy, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Hero|Hero (CDMA), heroc, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Hero|Hero (GSM), hero, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Incredible S|Incredible S, vivo, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, HTC Legend|Legend, legend, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, T-Mobile myTouch 3G Slide|myTouch 3G Slide, espresso, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ HTC, T-Mobile myTouch 4G|myTouch 4G, glacier, phone, {{sort|072000|7.2}},7, Last nightly was built on 7 October 2012. Also marketed as the HTC Panache.
+ HTC, T-Mobile myTouch 4G Slide|myTouch 4G Slide, doubleshot, phone, {{sort|091000|9.1}},9, Last nightly was built on 29 September 2013.
+ HTC, HTC One series|One (AT&T), m7att, phone, {{sort|110002|11 M2}},11, Last nightly was built on 6 January 2014.
+ HTC, HTC One series|One (GSM), m7ul, phone, {{sort|102010|10.2.1}},11, Last nightly was built on 6 January 2014.
+ HTC, HTC One series|One (GSM), m7, phone, {{sort|110012|11 M12}} ,12.1, 
+ HTC, HTC One series|One (Sprint), m7spr, phone, {{sort|110012|11 M12}},12, 
+ HTC, HTC One series|One (T-Mobile), m7tmo, phone, {{sort|110002|11 M2}},11, Last nightly was built on 6 January 2014.
+ HTC, HTC One series|One (Verizon), m7vzw, phone, {{sort|120001|12 YNG4N}},12.1, 
+ HTC, HTC One series|One (2014), m8, phone, {{sort|120001|12 YNG4N}},12.1, 
+ HTC, HTC One series|One (Dual Sim), m8dug, phone, {{N/A}},12.1, 
+ HTC, HTC One Max|One Max, t6, phone, {{sort|110012|11 M12}},12.1, 
+ HTC, HTC One Max|One Max (Sprint), t6spr, phone, {{sort|110012|11 M12}},12.1, 
+ HTC, HTC One Max|One Max (Verizon), t6vzw, phone, {{sort|110012|11 M12}},12.1, 
+ HTC, HTC One series|One Mini , m4, phone, {{sort|110012|11 M12}},11, 
+ HTC, HTC One series|One Mini 2 , memul, phone, {{sort|110012|11 M12}},12, Last nightly was built on 11 April 2015.
+ HTC, HTC One S|One S, ville, phone, {{sort|110012|11 M12}},12.1, 
+ HTC, HTC One X|One X (Snapdragon S4), evita, phone, {{sort|120001|12 YNG4N}},12.1, Also marketed as the [[HTC One XL]]
+ HTC, HTC One X|One X (Tegra 3), endeavoru, phone, {{sort|110012|11 M12}},11, 
+ HTC, HTC One X+|One X+, enrc2b, phone, {{sort|110013|11 XNG3C}},11, 
+ HTC, HTC Raider 4G|Raider 4G, holiday, phone, {{N/A}},10, Last nightly was built on 6 October 2014.
+ HTC, HTC Sensation|Sensation, pyramid, phone, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2014.
+ HTC, HTC Tattoo|Tattoo, click, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 February 2013.
+ HTC, HTC Wildfire|Wildfire, buzz, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 February 2013.
+ Huawei, Huawei IDEOS U8150|IDEOS U8150, u8150, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 February 2013.
+ Huawei, U8160, u8160, phone, {{N/A}},7, Last nightly was built on 1 February 2013.
+ Huawei, T-Mobile Pulse|U8220, u8220, phone, {{N/A}},7, Last nightly was built on 1 February 2013. Also marketed as the T-Mobile Pulse.
+ LG Electronics|LG, LG G Pad 7.0|G-Pad 7.0, v400, tablet, {{N/A}},12.1, 
+ LG Electronics|LG, LG G Pad 7.0|G-Pad 7.0 (LTE) (ATT), v410, tablet, {{sort|120001|12 YNG4N}},12.1, 
+ LG Electronics|LG, LG G Pad 8.3|G-Pad 8.3, v500, tablet, {{sort|110012|11 M12}},12.1, 
+ LG Electronics|LG, LG G2|G2 (AT&T), d800, phone, {{sort|120001|12 YNG4N}},12.1, 
+ LG Electronics|LG, LG G2|G2 (Canada), d803, phone, {{N/A}},12.1, 
+ LG Electronics|LG, LG G2|G2 (Docomo), l01f, phone, {{N/A}},11, 
+ LG Electronics|LG, LG G2|G2 (T-Mobile), d801, phone, {{sort|120001|12 YNG4N}},12.1, 
+ LG Electronics|LG, LG G2|G2 (International), d802, phone, {{sort|120001|12 YNG4N}},12.1, 
+ LG Electronics|LG, LG G2|G2 (Sprint), ls980, phone, {{sort|120001|12 YNG4N}},12.1, 
+ LG Electronics|LG, LG G2|G2 (Verizon), vs980, phone, {{sort|110004|11 M4}},12.1, 
+ LG Electronics|LG, LG Optimus 2X|G2x, p999, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 February 2013.
+ LG Electronics|LG, LG G3|G3 , d855, phone, {{N/A}},12.1, 
+ LG Electronics|LG, LG G3|G3 (AT&T), d850, phone, {{N/A}},12.1, 
+ LG Electronics|LG, LG G3|G3 (Canada), d852, phone, {{N/A}},12.1, 
+ LG Electronics|LG, LG G3|G3 (Sprint), ls990, phone, {{N/A}},12.1, 
+ LG Electronics|LG, LG G3|G3 (T-Mobile), d851, phone, {{N/A}},12.1, 
+ LG Electronics|LG, LG G3|G3 (Verizon), vs985, phone, {{sort|120001|12 YNG4N}},12.1, 
+ LG Electronics|LG, L90, w7, phone, {{N/A}},11," The w7 build will also install on D405, D405n, D410, D410n, D415 & D415n"
+ LG Electronics|LG, T-Mobile myTouch Q by LG and T-Mobile myTouch by LG|myTouch, e739, phone, {{sort|090000|9}},9, Last nightly was built on 29 September 2013.
+ LG Electronics|LG, T-Mobile myTouch Q by LG and T-Mobile myTouch by LG|myTouch Q, c800, phone, {{N/A}},9, Last nightly was built on 29 September 2013.
+ LG Electronics|LG, LG Nitro HD|Nitro HD, p930, phone, {{sort|102010|10.2.1}},11, 
+ LG Electronics|LG, LG Optimus 2X|Optimus 2X, p990, phone, {{sort|072000|7.2}},10.1, Last nightly was built on 16 February 2014. Also marketed as the LG Optimus Speed.
+ LG Electronics|LG, LG Optimus 3D|Optimus 3D, p920, phone, {{sort|072000|7.2}},10, Last nightly was built on 6 October 2013.
+ LG Electronics|LG, Optimus 3D Max, p720, phone, {{N/A}},10, Last nightly was built on 6 October 2013.
+ LG Electronics|LG, LG Optimus 4X HD|Optimus 4X HD, p880, phone, {{sort|110010|11 M10}},11, 
+ LG Electronics|LG, LG Optimus Black|Optimus Black, p970, phone, {{sort|100000|10}},10.1, Last nightly was built on 16 February 2014.
+ LG Electronics|LG, LG Optimus Chic|Optimus Chic, e720, phone, {{N/A}},7, Last nightly was built on 1 March 2013.
+ LG Electronics|LG, LG Optimus G|Optimus G (International), e975, phone, {{sort|120001|12 YNG4N}},12.1,
+ LG Electronics|LG, LG Optimus G|Optimus G (AT&T), e970, phone, {{sort|120001|12 YNG4N}},12,
+ LG Electronics|LG, LG Optimus G|Optimus G (Canada), e973, phone, {{sort|110010|11 M10}},11,
+ LG Electronics|LG, LG Optimus G|Optimus G Pro (All e98x GSM), e980, phone, {{sort|120001|12 YNG4N}},12.1,
+ LG Electronics|LG, LG Optimus G|Optimus G Pro (Sprint), ls970, phone, {{sort|120001|12 YNG4N}},12,
+ LG Electronics|LG, Optimus Hub, e510, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ LG Electronics|LG, LG Optimus L3|Optimus L3, e400, phone, {{N/A}},9, Last nightly was built on 29 September 2013.
+ LG Electronics|LG, LG Optimus L5|Optimus L5, e610, phone, {{N/A}},10, Last nightly was built on 6 October 2013.
+ LG Electronics|LG, LG Optimus L7|Optimus L7, p700, phone, {{N/A}},10, Last nightly was built on 6 October 2013.
+ LG Electronics|LG, LG Optimus L9|Optimus L9, p760, phone, {{sort|102010|10.2.1}},10.2, Last nightly was built on 6 April 2014.
+ LG Electronics|LG, LG Optimus LTE|Optimus LTE, p930, phone, {{sort|102010|10.2.1}},11, 
+ LG Electronics|LG, LG Optimus LTE|Optimus LTE (SK Telecom), su640, phone, {{sort|101030|10.1.3}},10.1, Last nightly was built on 16 February 2013.
+ LG Electronics|LG, Optimus Me, p350, phone, {{N/A}},7, Last nightly was built on 1 March 2013.
+ LG Electronics|LG, LG Optimus One|Optimus One, p500, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ LG Electronics|LG, LG Optimus One#LG Optimus Pro|Optimus Pro, c660, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ LG Electronics|LG, Optimus Sol, e730, phone, {{sort|090000|9}},9, Last nightly was built on 29 September 2013.
+ LG Electronics|LG, LG Nitro HD#LG Spectrum|Spectrum, vs920, phone, {{sort|102001|10.2 M1}},11, 
+ LG Electronics|LG, LG Optimus 3D|Thrill 4G, p925, phone, {{sort|072000|7.2}},7, Last nightly was built on 2 December 2012.
+ Motorola Mobility|Motorola, Motorola Atrix 4G|Atrix 4G, olympus, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Motorola Mobility|Motorola, Atrix HD, mb886, phone, {{sort|110002|11 M2}},12.1, 
+ Motorola Mobility|Motorola, Motorola Backflip|Backflip, motus, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Motorola Mobility|Motorola, Motorola Cliq|Cliq, morrison, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013. Also marketed as the Motorola Dext.
+ Motorola Mobility|Motorola, Motorola Cliq#Cliq XT|Cliq XT, zeppelin, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013. Also marketed as the Motorola Quench.
+ Motorola Mobility|Motorola, Motorola Defy|Defy, Jordan, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Motorola Mobility|Motorola, Motorola Defy|Defy+, jordan_plus, phone, {{N/A}},7, Last nightly was built on 1 March 2013.
+ Motorola Mobility|Motorola, Motorola Droid|Droid, sholes, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Motorola Mobility|Motorola, Motorola Droid 2|Droid 2, droid2, phone, {{sort|071000|7.1}},7, Last nightly was built on 1 March 2013.
+ Motorola Mobility|Motorola, Motorola Droid 2|Droid 2 Global, droid2we, phone, {{sort|071000|7.1}},7, Last nightly was built on 1 March 2013. Also marketed as cdma_droid2we
+ Motorola Mobility|Motorola, Droid 3, solana, phone, {{N/A}},10.1, Last nightly was built on 16 February 2013.
+ Motorola Mobility|Motorola, Droid 4, maserati, phone, {{sort|110013|11 XNG3C}} ,12.1, 
+ Motorola Mobility|Motorola, Droid Bionic, targa, phone, {{sort|110013|11 XNG3C}},12.1, 
+ Motorola Mobility|Motorola," Droid Mini, Droid Maxx/Ultra|Droid Maxx,Ultra", obake, phone, {{N/A}},12.1, 
+ Motorola Mobility|Motorola, Droid Razr, spyder, phone, {{sort|110013|11 XNG3C}},12.1, 
+ Motorola Mobility|Motorola, Droid Razr HD, moto_msm8960_jbbl, phone, {{sort|110013|11 XNG3C}},11, Last Snapshot was built on 26 June 2015.
+ Motorola Mobility|Motorola, Droid Razr HD (GSM), xt925, phone, {{sort|110002|11 M2}},12.1, 
+ Motorola Mobility|Motorola, Droid Razr HD (CDMA), xt926, phone, {{sort|110002|11 M2}},12.1, 
+ Motorola Mobility|Motorola, Droid Razr HD (4.1 bootloader), xt926_jbbl, phone, {{N/A}},12, 
+ Motorola Mobility|Motorola, Droid Razr HD, moto_msm8960, phone, {{sort|110012|11 M12}},12,
+ Motorola Mobility|Motorola, Droid Razr M, xt907, phone, {{sort|110002|11 M2}},12.1,
+ Motorola Mobility|Motorola, Motorola Droid X|Droid X, shadow, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Motorola Mobility|Motorola, Motorola Photon|Photon, sunfire, phone, {{N/A}},7, Last nightly was built on 29 September 2013.
+ Motorola Mobility|Motorola, Motorola Photon Q|Photon Q (CDMA), xt897c, phone, {{sort|102001|10.2 M1}},11, Last nightly was built on 10 December 2013.
+ Motorola Mobility|Motorola, Motorola Photon Q|Photon Q (GSM), xt897, phone, {{sort|110002|11 M2}},12.1, 
+ Motorola Mobility|Motorola, Moto E , condor, phone, {{N/A}},12.1, 
+ Motorola Mobility|Motorola, Moto G (1st generation), falcon, phone, {{sort|110006|11 M6}},12.1, 
+ Motorola Mobility|Motorola, Moto G (2nd generation) (2014), titan, phone, {{N/A}},12.1, 
+ Motorola Mobility|Motorola, Moto G (1st generation)|Moto G (4G), peregrine, phone, {{N/A}},12.1, 
+ Motorola Mobility|Motorola, Moto G (1st generation)|Moto G (4G) (2014), thea, phone, {{N/A}},12.1, 
+ Motorola Mobility|Motorola, Moto Maxx , quark, phone, {{N/A}},12.1, 
+ Motorola Mobility|Motorola, Moto X , ghost, phone, {{sort|110012|11 M12}},12.1, 
+ Motorola Mobility|Motorola, Moto X (T-Mobile), xt1053, phone, {{N/A}},11, Last nightly was built on 18 February 2014.
+ Motorola Mobility|Motorola, Moto X (International), xt1058, phone, {{N/A}},11, Only experimental builds are available. Last experimental was built on 16 February 2014.
+ Motorola Mobility|Motorola, Moto X (Verizon CDMA), xt1060, phone, {{N/A}},11, Last nightly was built on 18 February 2014.
+ Motorola Mobility|Motorola," Moto X, Droid Maxx|Droid Maxx (developer edition)", moto_msm8960dt, phone, {{sort|110005|11 M5}},11, Last nightly was built on 9 September 2014.
+ Motorola Mobility|Motorola, Moto X (2nd generation) (2014) , Victara, phone, {{sort|120001|12 YNG4N}},12.1, 
+ Motorola Mobility|Motorola, Droid Razr|Razr, umts_spyder, phone, {{sort|110013|11 XNG3C}},12.1, 
+ Motorola Mobility|Motorola, Motorola Xoom|Xoom (GSM), everest, tablet, {{sort|100000|10}},10.1, Last nightly was built on 16 February 2014.
+ Motorola Mobility|Motorola, Motorola Xoom|Xoom (Verizon), stingray, tablet, {{sort|100000|10}},10.1, Last nightly was built on 16 February 2014.
+ Motorola Mobility|Motorola, Motorola Xoom|Xoom (Wi-Fi), wingray, tablet, {{sort|100000|10}},10.1, Last nightly was built on 17 February 2014.
+ OnePlus, OnePlus One, bacon, phone, {{sort|110012|11 M12}},12.1, Phone ships with Cyanogen OS.
+ Oppo Digital|Oppo, Find 5, find5, phone, {{sort|110011|11 M11}},12, 
+ Oppo Digital|Oppo, Find 7, find7, phone, {{sort|110008|11 M8}},12.1, 
+ Oppo Digital|Oppo, Find 7 QHD, find7s, phone, {{N/A}},12.1, 
+ Oppo Digital|Oppo, Oppo N1|N1, n1, phone, {{sort|110011|11 M11}},11, 
+ Oppo Digital|Oppo, N3, n3, phone, {{N/A}},12.1, 
+ Samsung, Samsung Galaxy S#In the United States|Captivate, captivatemtd, phone, {{sort|110013|11 XNG3C}},11, 
+ Samsung, Samsung Galaxy S#In the United States|Epic 4G, epicmtd, phone, {{sort|110013|11 XNG3C}},11, 
+ Samsung, Samsung Galaxy S#In the United States|Fascinate, fascinatemtd, phone, {{sort|072000|7.2}},10.1, Last nightly was built on 23 July 2013.
+ Samsung, Galaxy Ace, cooper, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Samsung, Galaxy Exhilarate, exhilarate, phone, {{N/A}},11, 
+ Samsung, Samsung Galaxy Express|Galaxy Express (AT&T), expressatt, phone, {{sort|110011|11 M11}},11, 
+ Samsung, Samsung Galaxy Fit|Galaxy Fit, s5670, phone, {{N/A}},7, Last nightly was built on 1 March 2013.
+ Samsung, Samsung Galaxy Mini|Galaxy Mini, tass, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
+ Samsung, Samsung Galaxy Note (original)#SGH-I717|Galaxy Note (AT&T), quincyatt, phone, {{sort|101030|10.1.3}},10.1, Last nightly was built on 16 February 2014.
+ Samsung, Samsung Galaxy Note (original)|Galaxy Note (GSM), n7000, phone, {{sort|101030|10.1.3}},11, 
+ Samsung, Samsung Galaxy Note (original)#Variants|Galaxy Note (T-Mobile), quincytmo, phone, {{sort|101030|10.1.3}},10.1, Last nightly was built on 16 February 2013.
+ Samsung, Samsung Galaxy Note II|Galaxy Note II (AT&T), t0lteatt, phone, {{sort|101030|10.1.3}},10.2, Last nightly was built on 20 April 2014.
+ Samsung, Samsung Galaxy Note II|Galaxy Note II (GSM LTE), t0lte, phone, {{sort|110011|11 M11}},12.1, 
+ Samsung, Samsung Galaxy Note II|Galaxy Note II (GSM Non-LTE), n7100, phone, {{sort|110011|11 M11}},11,
+ Samsung, Samsung Galaxy Note II|Galaxy Note II (Sprint), l900, phone, {{sort|110011|11 M11}},12.1, 
+ Samsung, Samsung Galaxy Note II|Galaxy Note II (T-Mobile), t0ltetmo, phone, {{sort|101030|10.1.3}},10.2, Last nightly was built on 23 March 2014.
+ Samsung, Samsung Galaxy Note II|Galaxy Note II (US Cellular), r950, phone, {{sort|110008|11 M8}},11, 
+ Samsung, Samsung Galaxy Note II|Galaxy Note II (Verizon), i605, phone, {{sort|110011|11 M11}},12.1, 
+ Samsung, Samsung Galaxy Note III|Galaxy Note 3 , hlte, phone, {{sort|110012|11 M12}},12.1, 
+ Samsung, Samsung Galaxy Note III|Galaxy Note 3 (Sprint), hltespr, phone, {{N/A}},12.1, 
+ Samsung, Samsung Galaxy Note III|Galaxy Note 3 (T-Mobile), hltetmo, phone, {{N/A}},12.1,
+ Samsung, Samsung Galaxy Note III|Galaxy Note 3 (USC), hlteusc, phone, {{N/A}},11, 
+ Samsung, Samsung Galaxy Note III|Galaxy Note 3 (Verizon), hltevzw, phone, {{sort|110012|11 M12}},11, 
+ Samsung, Samsung Galaxy Note III|Galaxy Note 3 (XX), hltexx, phone, {{N/A}},11, Last nightly was built on 30 January 2014.
+ Samsung, Samsung Galaxy Note 4|Galaxy Note 4 (International), trltexx, phone, {{N/A}},12.1, 
+ Samsung, Samsung Galaxy Note 4|Galaxy Note 4 (Sprint), trltespr, phone, {{N/A}},12.1, 
+ Samsung, Samsung Galaxy Note 4|Galaxy Note 4 (T-Mobile), trltetmo, phone, {{N/A}},12.1, 
+ Samsung, Samsung Galaxy Note 4|Galaxy Note 4 (USC), trlteusc, phone, {{N/A}},12, 
+ Samsung, Samsung Galaxy Note 8.0|Galaxy Note 8.0 (GSM), n5100, tablet, {{sort|110011|11 M11}},12.1, 
+ Samsung, Samsung Galaxy Note 8.0|Galaxy Note 8.0 (Wi-Fi), n5110, tablet, {{sort|110011|11 M11}},12.1, 
+ Samsung, Samsung Galaxy Note 10.1|Galaxy Note 10.1 (GSM), n8000, tablet, {{N/A}},10.2, Last nightly was built on 23 March 2014.
+ Samsung, Samsung Galaxy Note 10.1|Galaxy Note 10.1 (LTE), n5120, tablet, {{sort|110011|11 M11}},11, 
+ Samsung, Samsung Galaxy Note 10.1|Galaxy Note 10.1 (Verizon), i925, tablet, {{sort|110011|11 M11}},12.1, 
+ Samsung, Samsung Galaxy Note 10.1|Galaxy Note 10.1 (Wi-Fi), n8013, tablet, {{N/A}},10.2, Last nightly was built on 23 March 2014.
+ Samsung, Samsung Galaxy Player|Galaxy Player 4.0, ypg1, tablet, {{sort|110012|11 M12}},11, 
+ Samsung, Galaxy Premier, superior, phone, {{sort|120001|12 YNG4N}},12.1, 
+ Samsung, Samsung Galaxy R|Galaxy R, i9103, phone, {{N/A}},10.1, Last nightly was built on 16 February 2014.
+ Samsung, Samsung Galaxy S|Galaxy S , galaxysmtd, phone, {{sort|110013|11 XNG3C}},11, 
+ Samsung, Samsung Galaxy S|Galaxy S (GT-I9000B), galaxysbmtd, phone, {{sort|110013|11 XNG3C}},11, 
+ Samsung, Galaxy S Blaze 4G, t769, phone, {{sort|100000|10}},11, 
+ Samsung, Samsung_Galaxy_S_Relay_4G|Galaxy S Relay 4G (T-Mobile), apexqtmo, phone, {{sort|110011|11 M11}},11, 
+ Samsung," Samsung Galaxy S II#AT&T Mobility - Models SGH-I777, SGH-I727 and SGH-I927|Galaxy S II (AT&T)", i777, phone, {{sort|101030|10.1.3}},12.1, 
+ Samsung, Galaxy S II|Galaxy S II Epic 4G Touch , d710, phone, {{sort|110012|11 M12}},11,
+ Samsung, Samsung Galaxy S II|Galaxy S II (GSM), i9100, phone, {{sort|110012|11 M12}},12.1," Prior builds were under the codename ""galaxys2""."
+ Samsung, Samsung Galaxy S II#Galaxy S II - Model GT-I9100G|Galaxy S II (GT-I9100G), i9100g, phone, {{sort|110013|11 XNG3C}},11, 
+ Samsung, Samsung Galaxy S II#T-Mobile - Model SGH-T989|Galaxy S II (T-Mobile), hercules, phone, {{sort|102000|10.2}},11, 
+ Samsung," Samsung Galaxy S II#AT&T Mobility - Models SGH-I777, SGH-I727 and SGH-I927|Galaxy S II Skyrocket", skyrocket, phone, {{sort|102000|10.2}},11, 
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (AT&T), d2att, phone, {{sort|110003|11 M3}},12.1, 
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (Cricket), d2cri, phone, {{sort|110003|11 M3}},11, Last nightly was built on 17 February 2014.
+ Samsung, Samsung Galaxy S III|Galaxy S III (GSM LTE), i9305, phone, {{sort|101030|10.1.3}},11, 
+ Samsung, Samsung Galaxy S III|Galaxy S III (GSM Non-LTE), i9300, phone, {{sort|110012|11 M12}},11, 
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (LTE), d2lte, phone, {{sort|110012|11 M12}},11, Last nightly was built on 26 April 2015.
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (MetroPCS), d2mtr, phone, {{sort|110003|11 M3}},11, Last nightly was built on 17 February 2014.
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (Sprint), d2spr, phone, {{sort|110003|11 M3}},12.1, 
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (T-Mobile), d2tmo, phone, {{sort|110003|11 M3}},12.1, 
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (U.S. Cellular), d2usc, phone, {{sort|110003|11 M3}},11, Last nightly was built on 17 February 2014.
+ Samsung, Samsung Galaxy S III#Model variants|Galaxy S III (Verizon), d2vzw, phone, {{sort|110003|11 M3}},12.1,
+ Samsung, Galaxy S4, jflte, phone, {{sort|110012|11 M12}},11,
+ Samsung, Galaxy S4 Active, jactivelte, phone, {{N/A}},12.1,
+ Samsung, Galaxy S4 (AT&T), jflteatt, phone, {{sort|110003|11 M3}},12.1,
+ Samsung, Galaxy S4 (Canada), jfltecan, phone, {{sort|110003|11 M3}},11, Last nightly was built on 17 February 2014.
+ Samsung, Galaxy S4 (Cricket), jfltecri, phone, {{sort|110003|11 M3}},11, Last nightly was built on 17 February 2014.
+ Samsung, Galaxy S4 (C-Spire), jfltecsp, phone, {{sort|110003|11 M3}},11, Last nightly was built on 17 February 2014.
+ Samsung, Galaxy S4 (International), i9500, phone, {{N/A}},12.1,
+ Samsung, Galaxy S4 (LTE) (International), jfltexx, phone, {{sort|110003|11 M3}},12.1,
+ Samsung, Galaxy S4 (Sprint), jfltespr, phone, {{sort|110003|11 M3}},12.1,
+ Samsung, Galaxy S4 (LTE) (T-Mobile), jfltetmo, phone, {{sort|110003|11 M3}},12.1,
+ Samsung, Galaxy S4 (US Cellular), jflteusc, phone, {{sort|110003|11 M3}},11, Last nightly was built on 17 February 2014.
+ Samsung, Galaxy S4 (LTE) (Verizon), jfltevzw, phone, {{sort|120001|12 YNG4N}},12.1,
+ Samsung, Galaxy S4 (LTE-A) (GT-I9506), ks01lte, phone, {{N/A}},12,
+ Samsung, Galaxy S4 Mini (International 3G), serrano3gxx, phone, {{sort|110013|11 XNG3C}},12.1, 
+ Samsung, Galaxy S4 Mini (International LTE), serranoltexx, phone, {{sort|110013|11 XNG3C}},12.1,
+ Samsung, Galaxy S5, klte, phone, {{N/A}},12.1,
+ Samsung, Galaxy S5 (China), kltechn, phone, {{N/A}},12.1,
+ Samsung, Galaxy S5 (KDDI), kltekdi, phone, {{N/A}},12.1,
+ Samsung, Galaxy S5 (Sprint), kltespr, phone, {{N/A}},12.1,
+ Samsung, Galaxy S5 (US Cellular), klteusc, phone, {{N/A}},11,
+ Samsung, Galaxy S5 (Verizon), kltevzw, phone, {{N/A}},11," for S5 Developer Edition only. Otherwise bootloader is locked, requires signed images."
+ Samsung, Galaxy S5 (Vodafone), kltedv, phone, {{N/A}},12.1,
+ Samsung, Galaxy S5|Galaxy S5 Duos , klteduos, phone, {{N/A}},12.1,
+ Samsung, Galaxy S5|Galaxy S5 Duos (China), kltechnduo, phone, {{N/A}},12.1,
+ Samsung, Samsung Galaxy Tab|Galaxy Tab (CDMA), p1c, tablet, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2013.
+ Samsung, Samsung Galaxy Tab|Galaxy Tab (GSM), p1, tablet, {{sort|110012|11 M12}},11, 
+ Samsung, Samsung Galaxy Tab|Galaxy Tab (GT-P1000L), p1l, tablet, {{sort|090000|9}},10, Last nightly was built on 5 May 2013.
+ Samsung, Samsung Galaxy Tab|Galaxy Tab (GT-P1000N), p1n, tablet, {{sort|090000|9}},10, Last nightly was built on 5 May 2013.
+ Samsung, Samsung Galaxy Tab 8.9|Galaxy Tab 8.9 (GSM), p5, tablet, {{N/A}},9, Last nightly was built on 29 September 2013.
+ Samsung, Samsung Galaxy Tab 8.9|Galaxy Tab 8.9 (Wi-Fi), p5wifi, tablet, {{N/A}},9, Last nightly was built on 29 September 2013.
+ Samsung, Samsung Galaxy Tab 10.1|Galaxy Tab 10.1 (GSM), p4, tablet, {{N/A}},10.1, Last nightly was built on 16 February 2014.
+ Samsung, Samsung Galaxy Tab 10.1|Galaxy Tab 10.1 (T-Mobile), p4tmo, tablet, {{N/A}},10.1, Last nightly was built on 16 March 2014.
+ Samsung, Samsung Galaxy Tab 10.1|Galaxy Tab 10.1 (Verizon), p4vzw, tablet, {{N/A}},10.1, Last nightly was built on 16 February 2014.
+ Samsung, Samsung Galaxy Tab 10.1|Galaxy Tab 10.1 (Wi-Fi), p4wifi, tablet, {{N/A}},10.1, Last nightly was built on 16 February 2014.
+ Samsung, Samsung Galaxy Tab 10.1|Galaxy Tab 10.1, p3, tablet, {{N/A}},10.1, Last nightly was built on 16 February 2014.
+ Samsung, Samsung Galaxy Tab Pro 8.4|Galaxy Tab Pro 8.4, mondrianwifi, tablet, {{sort|120001|12 YNG4N}},12.1, 
+ Samsung, Samsung Galaxy Tab 10.1|Galaxy Tab Pro 10.1 (Wi-Fi), picassowifi, tablet, {{sort|120001|12 YNG4N}},12.1, 
+ Samsung, Samsung Galaxy Tab S 8.4|Galaxy Tab S 8.4 (Wi-Fi), klimtwifi, tablet, {{N/A}},12.1, 
+ Samsung, Samsung Galaxy Tab 2 7.0|Galaxy Tab 2 7.0 (GSM), p3100, tablet, {{sort|101030|10.1.3}} ,11, 
+ Samsung, Samsung Galaxy Tab 2 7.0|Galaxy Tab 2 7.0 (Wi-Fi), p3110, tablet, {{sort|101030|10.1.3}},11, 
+ Samsung, Samsung Galaxy Tab 2 7.0|Galaxy Tab 2 7.0 (Wi-Fi+IR), p3113, tablet, {{sort|091000|9.1}},10, Last nightly was built on 6 November 2012.
+ Samsung, Samsung Galaxy Tab 2 10.1|Galaxy Tab 2 10.1 (GSM), p5100, tablet, {{sort|101030|10.1.3}},11, 
+ Samsung, Samsung Galaxy Tab 2 10.1|Galaxy Tab 2 10.1 (Wi-Fi), p5110, tablet, {{sort|101030|10.1.3}},11, 
+ Samsung, Samsung Galaxy Tab 2 10.1|Galaxy Tab 2 10.1 (Wi-Fi+IR), p5113, tablet, {{sort|091000|9.1}},10, Last nightly was built on 6 November 2012. 
+ Samsung, Samsung Galaxy S#In the United States|mesmerize, mesmerizemtd, phone, {{sort|072000|7.2}},10.1, Last nightly was built on 23 July 2013.
+ Samsung, Galaxy S#In the United States|Showcase, showcasemtd, phone, {{sort|072000|7.2}},7, Last nightly was built on 7 October 2012.
+ Samsung, Samsung Galaxy S#In the United States|Vibrant, vibrantmtd, phone, {{sort|101030|10.1.3}},10.1, Last nightly was built on 17 February 2014.
+ smartfren, http://www.smartfren.com/andromax4g/ Andromax Q 4G LTE, rendang, phone, {{N/A}},12.1,
+ Sony Mobile Communications|Sony, Sony Xperia acro S|Xperia acro S, hikari, phone, {{sort|100000|10}},9, Last nightly was built on 29 September 2013.
+ Sony Mobile Communications|Sony, Sony Xperia ion|Xperia ion, aoba, phone, {{N/A}},9, Last nightly was built on 29 September 2013.
+ Sony Mobile Communications|Sony, Sony Xperia L|Xperia L, taoshan, phone, {{N/A}},12,
+ Sony Mobile Communications|Sony, Sony Xperia M|Xperia M, nicki, phone, {{N/A}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia S|Xperia S, nozomi, phone, {{sort|091000|9.1}},9, Last nightly was built on 29 September 2013.
+ Sony Mobile Communications|Sony, Sony Xperia SP|Xperia SP, huashan, Phone, {{sort|110011|11 M11}},12.1,
+ Sony Mobile Communications|Sony, Sony Xperia T|Xperia T, mint, phone, {{sort|110012|11 M12}},12, 
+ Sony Mobile Communications|Sony, Sony Xperia T2 Ultra|Xperia T2 Ultra, tianchi, phone, {{N/A}},11, Only one experimental build is available. Last experimental was built on 5 November 2014.
+ Sony Mobile Communications|Sony, Sony Xperia Tablet Z|Xperia Tablet Z (GSM), pollux, tablet, {{sort|110012|11 M12}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Tablet Z|Xperia Tablet Z (Wi-Fi), pollux_windy, tablet, {{sort|110012|11 M12}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Tablet Z2|Xperia Tablet Z2 (GSM/LTE) , castor, tablet, {{sort|110012|11 M12}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Tablet Z2|Xperia Tablet Z2 (WiFi) , castor_windy, tablet, {{sort|110011|11 M11}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Z3 Compact|Sony Xperia Tablet Z3 Compact , scorpion, tablet, {{N/A}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Z3 Compact|Sony Xperia Tablet Z3 Compact (WiFi), scorpion_windy , tablet, {{N/A}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia TX|Xperia TX , hayabusa, tablet, {{N/A}}, {{N/A}}, Only experimental builds available. Last experimental was built on 28 May 2013.
+ Sony Mobile Communications|Sony, Sony Xperia V|Xperia V, tsubasa, phone, {{sort|110012|11 M12}},12, 
+ Sony Mobile Communications|Sony, Sony Xperia Z|Xperia Z, yuga, phone, {{sort|110012|11 M12}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Z Ultra|Xperia Z Ultra, togari, phone, {{sort|110012|11 M12}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Z Ultra|Xperia Z Ultra (GPE), togari_gpe, phone, {{sort|110012|11 M12}},12.1, 
+ Sony Mobile Communications|Sony, Sony Xperia Z1|Xperia Z1, honami, Phone, {{sort|110012|11 M12}},12.1,
+ Sony Mobile Communications|Sony, Sony Xperia Z1 Compact|Xperia Z1 Compact, amami, Phone, {{sort|110012|11 M12}},12.1,
+ Sony Mobile Communications|Sony, Sony Xperia Z2|Xperia Z2, sirius, Phone, {{sort|110012|11 M12}},12.1,
+ Sony Mobile Communications|Sony, Sony Xperia Z3|Xperia Z3, z3, Phone, {{N/A}},12.1,
+ Sony Mobile Communications|Sony, Sony Xperia Z3 Compact|Xperia Z3 Compact, z3c, Phone, {{N/A}},12.1,
+ Sony Mobile Communications|Sony, Sony Xperia ZL|Xperia ZL, odin, phone, {{sort|110012|11 M12}},11, 
+ Sony Mobile Communications|Sony, Sony Xperia ZR|Xperia ZR, dogo, phone, {{sort|110012|11 M12}},11,
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Live with Walkman|Live With Walkman, coconut, phone, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia active|Xperia active, satsuma, phone, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia arc|Xperia arc, anzu, phone, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia neo|Xperia neo, hallon, phone, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia neo V|Xperia neo V, haida, phone, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia mini|Xperia mini, smultron, phone, {{sort|091000|9.1}},10, Last nightly was built on 6 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia mini pro|Xperia mini pro, mango, phone, {{sort|091000|9.1}},10, Last nightly was built on 29 September 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia Play|Xperia Play (CDMA), zeusc, phone, {{sort|091000|9.1}},9, Last nightly was built on 29 September 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia Play|Xperia Play (GSM), zeus, phone, {{sort|091000|9.1}},9, Last nightly was built on 29 September 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia Pro|Xperia Pro, iyokan, phone, {{sort|072000|7.2}},10, Last nightly was built on 6 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia ray|Xperia ray, urushi, phone, {{sort|091000|9.1}},10, Last nightly was built on 7 October 2013.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia X8|Xperia X8, shakira, phone, {{sort|071000|7.1}}, {{N/A}}, Last nightly was built on 16 November 2011.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia X10 mini|Xperia X10 mini, robyn, phone, {{sort|071000|7.1}}, {{N/A}}, Last nightly was built on 16 November 2011.
+ Sony Mobile Communications#2001 to 2010|Sony Ericsson, Sony Ericsson Xperia X10 Mini#Sony Ericsson Xperia X10 mini pro|Xperia X10 mini pro, mimmi, phone, {{sort|071000|7.1}}, {{N/A}}, Last nightly was built on 16 November 2011.
+ ViewSonic, ViewSonic G Tablet|G Tablet, smb_a1002, tablet, {{sort|072000|7.2}},7," Last nightly was built on 3 June 2012. Prior builds were under the codename ""harmony"""
+ Xiaomi, Xiaomi Mi 2S|Mi2(s), aries, Phone, {{sort|110013|11 XNG3C}},11,
+ Xiaomi, Mi3/4 W/C, cancro, Phone, {{N/A}},12.1,
+ YU_Televentures|Yu, Yuphoria, lettuce, Phone, {{N/A}},12.1, Phone ships with Cyanogen OS.
+ YU_Televentures|Yu, Micromax_Yu_Yureka|Yureka, tomato, Phone, {{N/A}},12.1, Phone ships with Cyanogen OS.
+ ZTE, ZTE Blade|Blade, blade, phone, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013. Also marketed as the Orange San Francisco.
+ ZTE, ZTE Skate|Skate, skate, phone, {{N/A}},7, Last nightly was built on 1 March 2013.
+ ZTE, V9, v9, tablet, {{sort|072000|7.2}},7, Last nightly was built on 1 March 2013.
