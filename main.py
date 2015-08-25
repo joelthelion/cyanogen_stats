@@ -19,6 +19,8 @@ class Namespace(BaseNamespace):
             self.headers = [k for k, v in payload]
             print(self.csv_format(self.headers))
         print(self.csv_format([v for k, v in payload]))
+    def on_disconnect(self):
+        sys.exit(1)
 
 socketIO = SocketIO('stats.cyanogenmod.com', 8080, Namespace)
 socketIO.wait(seconds=1e6)
